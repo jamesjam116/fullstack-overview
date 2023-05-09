@@ -1,4 +1,4 @@
-# Blockchain Projects: (Solana / Ethereum / Binance - EVM / NEAR)
+# Full-stack Projects: PHP frameworks, Fullstack(Node.js) , Mobile development, CMS(Wordpress,Shopify)
 
 As you can see, I have built several NFT projects including minting, staking, evolution/breeding features, raffle/auction houses, Launchpad, Marketplace, simple p2e games like dice, spinner, moon-shot, and made smart contracts and utility tokens. All of repos are under private status.
 
